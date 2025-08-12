@@ -1,18 +1,5 @@
 # power-bi-olist
-"Designed an interactive Power BI dashboard for Olist Store, integrating multiple datasets to track revenue, customer behavior, payment trends, and review insights. Delivered actionable findings such as peak sales months, weekday–weekend payment gaps, and shipping time impact on customer satisfaction."
-# 📊 Olist Store Sales Analysis – Power BI Dashboard
-
-**Interactive Dashboard:** [🔗 View Online](https://app.powerbi.com/view?r=YOUR_REPORT_LINK)
-
-**Download File:** [⬇ Olist_bi.pbix](Olist_bi.pbix)
-
----
-
-## 📌 Project Overview
-An interactive Power BI dashboard analyzing Olist Store sales, customer behavior, payment trends, and review patterns.
-
-### **Process**
-1. Imported Olist datasets (orders, customers, payments, reviews, delivery).
+"Designed an interactive Power BI dashboard for Olist Store, integrating multiple datasets to track revenue, customer behavior, payment trends, and review insights. Delivered actionable findings such as peak sales months, weekday–weekend payment gaps, and shipping time impact on cus
 2. Cleaned & transformed data in Power Query (removed duplicates, handled missing values, standardized date formats).
 3. Built relationships and DAX measures (total revenue, avg payment, review counts).
 4. Designed visuals for KPIs, trends, and category insights.
