@@ -15,8 +15,6 @@
 
 ---
 
-### 📢 How to Use
-- Click **"View Online"** to explore the live dashboard.
-- Or **download the PBIX** to open in Power BI Desktop.
+
 
 ---
