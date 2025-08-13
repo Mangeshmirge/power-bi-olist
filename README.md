@@ -4,7 +4,10 @@
 3. Built relationships and DAX measures (total revenue, avg payment, review counts).
 4. Designed visuals for KPIs, trends, and category insights.
 5. Published to Power BI Service for online access.
-[🔗 View Interactive Dashboard](https://app.powerbi.com/view?r=YOUR_LINK)
+
+![Dashboard Preview](dashboard.gif)
+📥 [Download PBIX](Olist_bi.pbix)
+
 
 ### **Key Insights**
 - **Revenue:** 16M from **96K customers**.
